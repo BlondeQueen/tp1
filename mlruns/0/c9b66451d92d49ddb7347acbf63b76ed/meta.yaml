@@ -1,0 +1,14 @@
+artifact_uri: file:///home/blonde/Documents/dev_blonde/deeplearning/tp1/mlruns/0/c9b66451d92d49ddb7347acbf63b76ed/artifacts
+end_time: 1759067296907
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c9b66451d92d49ddb7347acbf63b76ed
+run_name: adorable-donkey-533
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759067296831
+status: 4
+tags: []
+user_id: blonde
